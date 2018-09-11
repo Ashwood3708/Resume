@@ -1,2 +1,3 @@
 # Resume
-My resume
+My resume and Cover Letter
+
