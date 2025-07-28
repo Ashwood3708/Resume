@@ -1,3 +1,2 @@
-# Resume
-My resume and Cover Letter
+# Resume Documents
 
